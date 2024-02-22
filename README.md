@@ -15,7 +15,7 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 | 1    | Create a New Branch                           |https://github.com/gdryf/ppchem/tree/new-branch-name |
 | 1    | Create a conda environment                  | https://github.com/gdryf/ppchem/blob/main/env.yml |
 | 1    | Fork a Repo                                 | https://github.com/gdryf/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |
+| 1    | (Optional) Make a Pull Request              |https://github.com/gdryf/ppchem/pull/1 |
 | 2    | (Optional) Review a Pull Request            | |
 
 **More milestones will be added throughout the course.**
