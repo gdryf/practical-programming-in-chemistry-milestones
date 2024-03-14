@@ -17,7 +17,7 @@ For the "Link" column, use the full URL to the specific activity. For example, t
 | 1    | Fork a Repo                                 | https://github.com/gdryf/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              |                   https://github.com/gdryf/ppchem/pull/1  |
 | 2    | (Optional) Review a Pull Request            |    https://github.com/gdryf/ppchem/pull/1  |
-
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
 **More milestones will be added throughout the course.**
 
 ## How to use this milestones table
